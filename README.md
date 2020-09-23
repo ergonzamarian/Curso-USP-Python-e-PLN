@@ -1,13 +1,11 @@
 # Curso-USP-Python-e-PLN.
 Curso de Métodos de Agrupamento em PLN usando Python
 
-Ferramenta utilizada
-
--Google Colab
+Ferramenta utilizada - (Google Colab)
 
 
 
-
+___
 Origens:
 
 *-Fonseca, E. R. and Rosa, J.L.G. A Two-Step Convolutional Neural Network Approach for Semantic Role Labeling. Proceedings of the 2013 International Joint Conference on Neural Networks, 2013. p. 2955-2961 [PDF]*
